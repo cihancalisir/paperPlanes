@@ -20,6 +20,8 @@ c.) Run application.
   ````python
 python main.py
   ````
+Results should be like in the video below. \
+[![Watch the video](https://img.youtube.com/vi/NDejLUjgSds/0.jpg)](https://www.youtube.com/watch?v=NDejLUjgSds)
 
 To train your model with custom data, use a data labelling tool like [roboflow](https://app.roboflow.com/chn-lghf8) and save your \
 data in YOLOv5-PyTorch format. This format split data imgs and txts which has bbow coordinates \
