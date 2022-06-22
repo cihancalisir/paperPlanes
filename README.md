@@ -15,7 +15,7 @@ b.) Test model.
 python test.py
   ````
 
-b.) Run application.
+c.) Run application.
 
   ````python
 python main.py
