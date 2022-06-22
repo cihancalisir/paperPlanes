@@ -26,8 +26,8 @@ data in YOLOv5-PyTorch format. This format split data imgs and txts which has bb
 with class ID to train/valid/test folder and creates data.yaml to give data paths to YOLOv5 model.
 
 If you created data, go to the [project](https://drive.google.com/drive/folders/1f6CqA6WaNmoNv985smUoA1q07_Tdu3hu?usp=sharing) 
-and update train, valid and test folder. Run "YOLOv5_paperPlaneDetection.ipynb" and save your model weights from "./yolov5/runs/train/expX/weights/best-last.pt"
-to local and add project folder. \
+and update train, valid and test folder. Run "YOLOv5_paperPlaneDetection.ipynb" and save your model weights from \ 
+"./yolov5/runs/train/expX/weights/best-last.pt" to local and add project folder. \
 Update your weight path in "loadmodel.py". 
 
 
