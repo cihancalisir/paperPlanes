@@ -32,6 +32,9 @@ and update train, valid and test folder. Run "YOLOv5_paperPlaneDetection.ipynb" 
 "./yolov5/runs/train/expX/weights/best-last.pt" to local and add project folder. \
 Update your weight path in "loadmodel.py". 
 
+Note: The yolo model can sometimes detect incorrectly because of the limited training data. \
+ The success of the model trained with 750 images and 1000 epochs was as in the video above.
+
 
 
 
